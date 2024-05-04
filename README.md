@@ -1,5 +1,5 @@
-# MailerHub
-MailerHub is a robust Django-based API designed for efficient email management and distribution. It facilitates sending emails to both single and multiple recipients seamlessly. With features for SMTP configuration and error handling, MailerHub streamlines email communication and management tasks with ease and reliability.
+# MailerHive
+MailerHive is a robust Django-based API designed for efficient email management and distribution. It facilitates sending emails to both single and multiple recipients seamlessly. With features for SMTP configuration and error handling, MailerHive streamlines email communication and management tasks with ease and reliability.
 
 ## Features
 
@@ -9,7 +9,7 @@ MailerHub is a robust Django-based API designed for efficient email management a
 
 
 ## Getting Started
-Follow these instructions to set up and use MailerHub.
+Follow these instructions to set up and use MailerHive.
 
 ## Prerequisites
 
@@ -24,11 +24,11 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository :**
 
    ```bash
-   git clone https://github.com/Shashi2632/MailerHub.git
+   git clone https://github.com/Shashi2632/MailerHive.git
 2. **Navigate to the project directory :**
 
    ```bash
-   cd mailerhub
+   cd mailerhive
 3. **Install dependencies :**  
 
    ```bash
